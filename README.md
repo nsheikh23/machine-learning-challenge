@@ -1,6 +1,6 @@
 # machine-learning-challenge
 
-# Machine Learning Homework - Exoplanet Exploration
+#### -- Project status: [Active]
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
