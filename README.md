@@ -1,6 +1,6 @@
 # machine-learning-challenge
 
-#### -- Project status: [Active]
+#### -- Project status: [Completed]
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
