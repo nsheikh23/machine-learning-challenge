@@ -33,18 +33,6 @@ The purpose of this project was to build multiple machine learning models and co
 
 In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Deep Learning models and Random Forest model have the highest accuracy and would be recommended if there are no restrictions.
 
-## Hints and Considerations
-
-* Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
-* Not all variables are significant be sure to remove any insignificant variables.
-
-* Make sure your `sklearn` package is up to date.
-
-* Try a simple model first, and then tune the model using `GridSearch`.
-
-- - -
-
 ## Submission
 
 * Create a Jupyter Notebook for each model and host the notebooks on GitHub.
