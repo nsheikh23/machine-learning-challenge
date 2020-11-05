@@ -32,18 +32,6 @@ The purpose of this project was to build multiple machine learning models and co
 * Deep Learning model: Loss = 0.23516 / Accuracy = 0.90160
 
 In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Deep Learning models and Random Forest model have the highest accuracy and would be recommended if there are no restrictions.
-
-
-## Resources
-
-* [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
-
-* [Scikit-Learn Tutorial Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
-
-* [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
-
-* [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
-
 - - -
 
 ## Hints and Considerations
