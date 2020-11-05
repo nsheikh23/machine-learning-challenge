@@ -24,6 +24,8 @@ The purpose of this project was to build multiple machine learning models and co
 * Used GridSearchCV to hypertune the models and boost performance.
 * Tuned and compared multiple classifiers.
 
+## Analysis
+### Logistic Regression Model
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
