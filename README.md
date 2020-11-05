@@ -32,7 +32,6 @@ The purpose of this project was to build multiple machine learning models and co
 * Deep Learning model: Loss = 0.23516 / Accuracy = 0.90160
 
 In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Deep Learning models and Random Forest model have the highest accuracy and would be recommended if there are no restrictions.
-- - -
 
 ## Hints and Considerations
 
