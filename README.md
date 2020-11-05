@@ -25,7 +25,10 @@ The purpose of this project was to build multiple machine learning models and co
 * Tuned and compared multiple classifiers.
 
 ## Analysis
-### Logistic Regression Model
+To begin, the first model built was the Logistic Regression model which scored very nicely at 0.8785 at 500 iterations for the test data, once tuned using GridSearchCV. Surprisingly, the SVM model had a slightly lower score of 0.8661 but still very good. While, Random Forest had probably the best test score of 0.8889 and would be ideal for this dataset. The KNN model had the lowest score of all the models with a score of 0.8306.
+
+Nonetheless, all these models are great and fairly close in accuracy.
+
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
