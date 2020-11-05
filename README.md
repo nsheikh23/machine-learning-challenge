@@ -27,11 +27,11 @@ The purpose of this project was to build multiple machine learning models and co
 ## Analysis
 * Logistic Regression model: Training Data Score = 0.84588 / Testing Data Score = 0.87850 (Tuned)
 * SVM model: Training Data Score = 0.83730 / Testing Data Score = 0.86610 (Tuned)
-* Random Forest model: Training Data Score = 1.0 / Testing Data Score = 0.91533
+* Random Forest model: Training Data Score = 1.0 / Testing Data Score = 0.89185
 * KNN model(k=19): Training Data Score = 0.83578 / Testing Data Score = 0.83066
 * Deep Learning model: Loss = 0.23516 / Accuracy = 0.90160
 
-In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Random Forest model and Deep Learning models have the highest accuracy and would be recommended if there are no restrictions.
+In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Deep Learning models and Random Forest model have the highest accuracy and would be recommended if there are no restrictions.
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
