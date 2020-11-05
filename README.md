@@ -33,16 +33,6 @@ The purpose of this project was to build multiple machine learning models and co
 
 In conclusion, based on the results presented above, it is clear that all the models are great. Depending on the limitations, any of these models could be used. However, the Deep Learning models and Random Forest model have the highest accuracy and would be recommended if there are no restrictions.
 
-### Tune Model Parameters
-
-* Use `GridSearch` to tune model parameters.
-* Tune and compare at least two different classifiers.
-
-### Reporting
-
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
-
-- - -
 
 ## Resources
 
