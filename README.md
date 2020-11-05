@@ -18,8 +18,13 @@ The purpose of this project was to build multiple machine learning models and co
 * Matplotlib
 
 ## Process
-* Used GridSearchCV to hypertune the models and boost performance on some models.
-* 
+* Preprocessed the dataset prior to fitting the models.
+* Scaled the numerical data.
+* Separated the data for training and testing.
+* Used GridSearchCV to hypertune the models and boost performance.
+* Tuned and compared multiple classifiers.
+
+
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
 To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
